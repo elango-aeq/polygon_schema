@@ -1,0 +1,1 @@
+{"@context":[{"@protected":true,"@version":1.1,"id":"@id","type":"@type","test":{"@context":{"@propagate":true,"@protected":true,"polygon-vocab":"urn:uuid:57329cc6-fcad-446e-9009-4e05fbdad693#","xsd":"http://www.w3.org/2001/XMLSchema#","name":{"@id":"polygon-vocab:name","@type":"xsd:string"}},"@id":"urn:uuid:7491df36-e74f-45ec-881f-4e6ed0f14950"}}]}
